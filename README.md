@@ -1,3 +1,5 @@
+The <i>Stikman Adventures</i> Github will be used for storing prereleases, artwork, etc. and maintaining a simple wiki over the game's features.
+
 # Stikman Adventures
 <b>Please keep in mind that <i>Stikman Adventures</i> is purely just concept. No actual programming has begun.
 If you would like to see the original <i>Stikman</i> project, head on over to <a href="https://scratch.mit.edu/projects/213434956/">Stikman Scratch (Version 1.4.3) on Scratch</a>.</b>
